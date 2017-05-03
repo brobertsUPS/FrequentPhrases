@@ -11,7 +11,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h2>
               Welcome to the phrase frequency counter! Upload a .txt file in order to find the top 10 phrases in the text.
-              There are some example files in this GitHub repo to try: <a href="">GitHub</a>
+              There are some example files in this GitHub repo to try: <a href="https://github.com/brobertsUPS/FrequentPhrases/tree/master/src/ExampleTexts">GitHub</a>
           </h2>
         </div>
         <FrequentWordsFileZone />
